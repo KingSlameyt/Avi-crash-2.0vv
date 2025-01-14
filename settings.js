@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "94772836332"
+global.ownernomer = "492713876676"
 global.ownername = "𝓡𝓮𝓪𝓵 𝓚𝓲𝓷𝓰 𝓐𝓿𝓲"
 global.ytname = "YT: AviNetHunter"
 global.socialm = "GitHub: avishka33"
 global.location = "srilanka, southern, Galle"
 
-global.ownernumber = '94772836332'  //creator number
+global.ownernumber = '492713876676'  //creator number
 global.ownername = '𝓡𝓮𝓪𝓵 𝓚𝓲𝓷𝓰 𝓐𝓿𝓲' //owner name
 global.botname = '𝘼𝙫𝙞-𝙞𝙣𝙛𝙞𝙣𝙖𝙩𝙚-𝙀𝙙𝙞𝙩𝙞𝙤𝙣' //name of the bot
 
